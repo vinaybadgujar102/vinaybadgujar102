@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a Self-Improvement Application**
 
-- 🌱 I’m currently learning **Web3 Technologies**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **vinaybadgujar8@gmail.com**
 
