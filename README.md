@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a Self-Improvement Application**
 
-- 🌱 I’m currently learning **CI/CD**
+- 🌱 I’m currently learning **System Design**
 
 - 👯 I’m looking to collaborate on **Full Stack Development**
 
