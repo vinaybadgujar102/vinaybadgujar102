@@ -5,9 +5,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinaybadgujar102&" alt="vinaybadgujar102" /></p>
 
-- 🔭 I’m currently working on **a Self-Improvement Application**
+- 🔭 I’m currently working on **ZinZen**
 
-- 🌱 I’m currently learning **System Design**
+- 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on **Full Stack Development**
 
